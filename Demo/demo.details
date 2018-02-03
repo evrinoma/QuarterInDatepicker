@@ -4,15 +4,13 @@ description: The Datepicker Quarter
 authors:
     - Nikolay Nikolaev
 resources:
-    - /QuarterInDatepicker/src/js/calendar/calendar.js
-    - /QuarterInDatepicker/example.js
+    - https://github.com/evrinoma/QuarterInDatepicker/raw/master/src/js/calendar/calendar.js
+    - https://github.com/evrinoma/QuarterInDatepicker/raw/master/example.js
 normalize_css: no
  ...
     - https://code.jquery.com/jquery-2.2.0.min.js
     - https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js
     - https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.css
-    - https://github.com/evrinoma/QuarterInDatepicker/raw/master/src/js/calendar/calendar.js
-    - https://github.com/evrinoma/QuarterInDatepicker/raw/master/example.js
 
 
 <p>http://jsfiddle.net/gh/get/mootools/1/evrinoma/QuarterInDatepicker/tree/master/Demo/</p> 
