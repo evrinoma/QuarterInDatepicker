@@ -1,4 +1,3 @@
-/*
 ---
 name: The Datepicker Quarter
 description: The Datepicker Quarter 
@@ -7,11 +6,9 @@ authors:
 resources:
     - https://code.jquery.com/jquery-2.2.0.min.js
     - https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js
-    - https://raw.githubusercontent.com/evrinoma/QuarterInDatepicker/master/src/js/calendar/calendar.js
     - https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.css
 normalize_css: no
  ...
-*/
 
 
 <p>http://jsfiddle.net/gh/get/mootools/1/evrinoma/QuarterInDatepicker/tree/master/Demo/</p> 
